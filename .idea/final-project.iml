@@ -4,5 +4,9 @@
     <content url="file://$MODULE_DIR$" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="Pindo-Boost-Analysis-App" />
+    <orderEntry type="module" module-name="Search-Optimization" />
+    <orderEntry type="module" module-name="Sandbox-NB" />
+    <orderEntry type="module" module-name="Pindo-Boost-Analysis" />
   </component>
 </module>

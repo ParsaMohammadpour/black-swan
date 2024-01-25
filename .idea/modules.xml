@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../work/Pindo-Boost-Analysis/.idea/Pindo-Boost-Analysis.iml" filepath="$PROJECT_DIR$/../../work/Pindo-Boost-Analysis/.idea/Pindo-Boost-Analysis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../work/Pindo-Boost-Analysis-App/.idea/Pindo-Boost-Analysis-App.iml" filepath="$PROJECT_DIR$/../../work/Pindo-Boost-Analysis-App/.idea/Pindo-Boost-Analysis-App.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../work/Sandbox-NB/.idea/Sandbox-NB.iml" filepath="$PROJECT_DIR$/../../work/Sandbox-NB/.idea/Sandbox-NB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../work/Search-Optimization/.idea/Search-Optimization.iml" filepath="$PROJECT_DIR$/../../work/Search-Optimization/.idea/Search-Optimization.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/final-project.iml" filepath="$PROJECT_DIR$/.idea/final-project.iml" />
     </modules>
   </component>
